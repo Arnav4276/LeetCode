@@ -96,6 +96,7 @@
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav4276/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnav4276/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
