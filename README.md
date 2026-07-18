@@ -111,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Arnav4276/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
