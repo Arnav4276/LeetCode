@@ -125,6 +125,7 @@
 | [0342-power-of-four](https://github.com/Arnav4276/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/Arnav4276/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
