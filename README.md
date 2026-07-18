@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/Arnav4276/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arnav4276/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
