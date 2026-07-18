@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arnav4276/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -119,6 +120,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
