@@ -18,6 +18,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arnav4276/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Arnav4276/LeetCode/tree/master/0520-detect-capital) |
@@ -81,6 +82,7 @@
 | [0009-palindrome-number](https://github.com/Arnav4276/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Arnav4276/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
@@ -93,6 +95,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -123,6 +126,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
