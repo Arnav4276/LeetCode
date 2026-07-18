@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arnav4276/LeetCode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arnav4276/LeetCode/tree/master/0001-two-sum) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
 ## Database
 |  |
