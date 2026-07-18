@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Arnav4276/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
