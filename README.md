@@ -13,6 +13,7 @@
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0551-student-attendance-record-i](https://github.com/Arnav4276/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav4276/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Arnav4276/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Arnav4276/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -73,6 +75,7 @@
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
 | [1470-shuffle-the-array](https://github.com/Arnav4276/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav4276/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
