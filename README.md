@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnav4276/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -46,6 +47,7 @@
 | [0075-sort-colors](https://github.com/Arnav4276/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Arnav4276/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav4276/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Arnav4276/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -62,6 +64,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +109,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Arnav4276/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +122,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav4276/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
