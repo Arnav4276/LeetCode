@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Arnav4276/LeetCode/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/Arnav4276/LeetCode/tree/master/0196-delete-duplicate-emails) |
 ## Linked List
 |  |
 | ------- |
