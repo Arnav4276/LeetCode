@@ -31,6 +31,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Arnav4276/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Arnav4276/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav4276/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -119,6 +120,7 @@
 | [0326-power-of-three](https://github.com/Arnav4276/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arnav4276/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
@@ -183,6 +185,7 @@
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
