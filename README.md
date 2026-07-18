@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnav4276/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
@@ -70,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
@@ -109,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
@@ -119,6 +122,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Arnav4276/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -127,6 +131,7 @@
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -134,6 +139,7 @@
 | [0075-sort-colors](https://github.com/Arnav4276/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
