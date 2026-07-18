@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arnav4276/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -111,4 +113,8 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
