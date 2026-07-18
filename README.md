@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav4276/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
 ## Database
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
