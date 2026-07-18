@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/Arnav4276/LeetCode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
+| [0551-student-attendance-record-i](https://github.com/Arnav4276/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav4276/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Arnav4276/LeetCode/tree/master/1108-defanging-an-ip-address) |
