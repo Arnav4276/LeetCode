@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/Arnav4276/LeetCode/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Arnav4276/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3798-largest-even-number](https://github.com/Arnav4276/LeetCode/tree/master/3798-largest-even-number) |
 ## Two Pointers
 |  |
