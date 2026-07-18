@@ -108,6 +108,7 @@
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Arnav4276/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
