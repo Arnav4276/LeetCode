@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Arnav4276/LeetCode/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Arnav4276/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
