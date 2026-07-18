@@ -29,6 +29,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav4276/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Arnav4276/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -37,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arnav4276/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Arnav4276/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav4276/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
