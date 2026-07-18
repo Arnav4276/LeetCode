@@ -126,6 +126,7 @@
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Arnav4276/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
