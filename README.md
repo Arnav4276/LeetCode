@@ -83,6 +83,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Arnav4276/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav4276/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
@@ -128,6 +129,7 @@
 | [0507-perfect-number](https://github.com/Arnav4276/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Arnav4276/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
