@@ -1,16 +1,20 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-	    def dfs(left, right, s):
-		    if len(s) == n * 2:
-		    	res.append(s)
-		    	return 
+    def generateParenthesis(self, n: int) -> list[str]:
+        res = []
 
-		    if left < n:
-		    	dfs(left + 1, right, s + '(')
+        def generate(cur, left, right):
+            if n == left == right:
+                res.append(cur[:])
+            
+            if left < n:
+                generate(cur + "(", left + 1, right)
+            
+            if right < left:
+                generate(cur + ")", left, right + 1)
 
-		    if right < left:
-		    	dfs(left, right + 1, s + ')')
+        generate("", 0, 0)
 
-	    res = []
-	    dfs(0, 0, '')
-	    return res
+        return res
+
+
+        
