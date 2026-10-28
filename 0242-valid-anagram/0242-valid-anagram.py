@@ -1,20 +1,15 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
         
-        freq = [0] * 26
-        for i in range(len(s)):
-            freq[ord(s[i]) - ord('a')] += 1
-            freq[ord(t[i]) - ord('a')] -= 1
-        
-        for i in range(len(freq)):
-            if freq[i] != 0:
+        counts = {}
+
+        for char in s:
+            counts[char] = counts.get(char, 0) + 1
+        for char in t:
+            if counts.get(char, 0) == 0:
                 return False
+            counts[char] -= 1
         
         return True
