@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav4276/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav4276/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav4276/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Arnav4276/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
@@ -43,6 +44,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Arnav4276/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav4276/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Arnav4276/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Arnav4276/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
