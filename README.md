@@ -17,6 +17,7 @@
 | [0290-word-pattern](https://github.com/Arnav4276/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -47,6 +48,7 @@
 | [0290-word-pattern](https://github.com/Arnav4276/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arnav4276/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -270,4 +273,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
