@@ -104,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arnav4276/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
@@ -225,6 +226,7 @@
 | [0258-add-digits](https://github.com/Arnav4276/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav4276/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
@@ -232,6 +234,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
