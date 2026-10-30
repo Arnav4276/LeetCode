@@ -97,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav4276/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav4276/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Arnav4276/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnav4276/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav4276/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -141,6 +142,7 @@
 | [0067-add-binary](https://github.com/Arnav4276/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav4276/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav4276/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Arnav4276/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav4276/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Arnav4276/LeetCode/tree/master/0202-happy-number) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arnav4276/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav4276/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
