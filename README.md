@@ -109,6 +109,7 @@
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -158,6 +159,7 @@
 | [0415-add-strings](https://github.com/Arnav4276/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Arnav4276/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
@@ -285,4 +287,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
