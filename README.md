@@ -59,6 +59,7 @@
 | [0771-jewels-and-stones](https://github.com/Arnav4276/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Arnav4276/LeetCode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Arnav4276/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/Arnav4276/LeetCode/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/Arnav4276/LeetCode/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Arnav4276/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -160,6 +161,7 @@
 | [0507-perfect-number](https://github.com/Arnav4276/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
+| [1154-day-of-the-year](https://github.com/Arnav4276/LeetCode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Arnav4276/LeetCode/tree/master/1185-day-of-the-week) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
