@@ -109,6 +109,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnav4276/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Arnav4276/LeetCode/tree/master/0575-distribute-candies) |
+| [0622-design-circular-queue](https://github.com/Arnav4276/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Arnav4276/LeetCode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/Arnav4276/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -136,6 +137,7 @@
 | [0002-add-two-numbers](https://github.com/Arnav4276/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnav4276/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arnav4276/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0622-design-circular-queue](https://github.com/Arnav4276/LeetCode/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Arnav4276/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
@@ -316,6 +319,7 @@
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Arnav4276/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
