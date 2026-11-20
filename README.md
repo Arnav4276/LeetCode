@@ -171,6 +171,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arnav4276/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Arnav4276/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Arnav4276/LeetCode/tree/master/2469-convert-the-temperature) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Arnav4276/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,4 +326,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Arnav4276/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 <!---LeetCode Topics End-->
