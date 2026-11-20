@@ -122,6 +122,7 @@
 | [1929-concatenation-of-array](https://github.com/Arnav4276/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arnav4276/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arnav4276/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Database
 |  |
 | ------- |
