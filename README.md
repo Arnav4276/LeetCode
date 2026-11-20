@@ -292,6 +292,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav4276/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
@@ -312,4 +313,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arnav4276/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Arnav4276/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
