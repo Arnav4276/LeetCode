@@ -123,6 +123,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arnav4276/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arnav4276/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arnav4276/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Arnav4276/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Database
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav4276/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav4276/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav4276/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Arnav4276/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav4276/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Arnav4276/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Recursion
 |  |
 | ------- |
