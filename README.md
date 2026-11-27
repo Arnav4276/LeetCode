@@ -124,6 +124,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arnav4276/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arnav4276/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Arnav4276/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Arnav4276/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Database
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0509-fibonacci-number](https://github.com/Arnav4276/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Arnav4276/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Arnav4276/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Arnav4276/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -333,5 +335,6 @@
 ## Greedy
 |  |
 | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Arnav4276/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Arnav4276/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 <!---LeetCode Topics End-->
