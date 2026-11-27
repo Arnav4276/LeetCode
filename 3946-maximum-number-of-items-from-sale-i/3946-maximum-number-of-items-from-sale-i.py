@@ -1,18 +1,26 @@
 class Solution:
-    def maximumSaleItems(self, items: List[List[int]], budget: int) -> int:
-        mult = [0] * 1501
-        for it in items:
-            fac = it[0]
-            for f in range(1, 1501):
-                if fac % f == 0:
-                    mult[f] += 1
-        dp = [0] * (budget + 1)
-        for it in items:
-            f, p = it[0], it[1]
-            ndp = dp[:]
-            for b in range(budget, p - 1, -1):
-                ndp[b] = max(ndp[b], dp[b - p] + mult[f])
-            for b in range(p, budget + 1):
-                ndp[b] = max(ndp[b], ndp[b - p] + 1)
-            dp = ndp
-        return max(dp)
+    def maximumSaleItems(self, items: list[list[int]], budget: int) -> int:
+        max_factor = max(p[0] for p in items)
+        cnt_factor = [0] * (max_factor + 1)
+        for factor, _ in items:
+            cnt_factor[factor] += 1
+
+        cnt_multi = [0] * (max_factor + 1)
+        f = [0] * (budget + 1)
+        min_price = inf
+        sum_price = 0
+
+        for factor, price in items:
+            min_price = min(min_price, price)
+
+            if cnt_multi[factor] == 0:
+                for j in range(factor, max_factor + 1, factor):
+                    cnt_multi[factor] += cnt_factor[j]
+            cnt = cnt_multi[factor]
+
+            sum_price = min(sum_price + price, budget)
+            for j in range(sum_price, price - 1, -1):
+                v = f[j - price] + cnt
+                if v > f[j]: f[j] = v
+
+        return max(fi + (budget - i) // min_price for i, fi in enumerate(f))
